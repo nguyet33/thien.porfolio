@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/thien.porfolio/static/css/main.82953641.css",
+    "main.js": "/thien.porfolio/static/js/main.65534449.js",
+    "static/media/recent-photo.jpg": "/thien.porfolio/static/media/recent-photo.b07c855d986a9678fc9d.jpg",
+    "static/media/Lil Lib.png": "/thien.porfolio/static/media/Lil Lib.253854811ecd61463372.png",
+    "static/media/living-real-image.png": "/thien.porfolio/static/media/living-real-image.97826efd83613a4add50.png",
+    "static/media/Plan A Trip.png": "/thien.porfolio/static/media/Plan A Trip.ef5bc5f5721fbf83da12.png",
+    "static/media/auto-tracker-image.png": "/thien.porfolio/static/media/auto-tracker-image.b43f2f3cab833f6be953.png",
+    "index.html": "/thien.porfolio/index.html",
+    "main.82953641.css.map": "/thien.porfolio/static/css/main.82953641.css.map",
+    "main.65534449.js.map": "/thien.porfolio/static/js/main.65534449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82953641.css",
+    "static/js/main.65534449.js"
+  ]
+}
